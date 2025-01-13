@@ -1,4 +1,4 @@
-<h2> It's JinmuGo </h2>
+<h2> It's Jinmu Go </h2>
 
 _Reader & Writer, Visual Thinker_
 
